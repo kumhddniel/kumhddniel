@@ -25,3 +25,13 @@ Hello! My name is Ku Muhammad Daniel, and I am a full-time student at Universiti
 
 Assignments and Project
 -----------------------
+
+Assignment 1 : Report (Video Games Website Analysis Using Google Lighthouse.pdf)
+
+For this assignment, our group, Special Force, is utilizing Google Lighthouse tools to perform a technical audit of a website. We chose a gaming website to test with Google Lighthouse. This was my first experience using such tools to gain insights into a website's performance, accessibility, SEO and best practices. I suggest that the assignment should allow for more than five pages for the report as the current limit is insufficient, forcing us to trim our content further to meet the page requirement.
+
+Assignment 2 : Website (https://kumhddniel.github.io/#kudan)
+
+I thoroughly enjoyed working on this assignment. It provided us with a foundational understanding of how to create a website and make it highly interactive. The website we developed focuses on cars and consists of a single page. It also includes features such as reference links, sections and the implementation of various CSS tools. I have no suggestions for improvement as the assignment is already well-executed.
+
+Assignment 3 : Github E-Portfolio (
